@@ -20,6 +20,7 @@ docker-compose up -d nginx mysql phpmyadmin
 
 PORTAS USADAS, PODEM SER ALTERADAS SE ESTIVER SENDO USADAS
 
+
 PASTA LARADOCK ARQUIVO .ENV
 
 
