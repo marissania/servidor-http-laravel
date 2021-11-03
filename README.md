@@ -11,6 +11,8 @@
 
 Comando para rodar o servidor
 
+Rodar o Comando dentro da pasta laradock
+
 docker-compose up -d nginx mysql phpmyadmin
 
 
